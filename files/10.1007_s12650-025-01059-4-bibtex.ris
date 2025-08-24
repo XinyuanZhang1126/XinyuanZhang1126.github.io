@@ -1,0 +1,20 @@
+TY  - JOUR
+AU  - Zhang, Xinyuan
+AU  - Xu, Yifan
+AU  - Li, Kaiwen
+AU  - Yu, Lingyun
+AU  - Liu, Yu
+PY  - 2025
+DA  - 2025/08/01
+TI  - ChinaVis24.MapCraft: dissecting and designing custom geo-infographics
+JO  - Journal of Visualization
+SP  - 837
+EP  - 857
+VL  - 28
+IS  - 4
+AB  - Geographic infographics are increasingly utilized across various domains to convey spatially relevant information effectively. However, creating these infographics typically requires substantial expertise in design and visualization, as well as proficiency with specialized tools, which can deter many potential creators. To address this barrier, our research analyzed and categorized 118 geographic infographics and sketches designed by 8 experienced visualization practitioners, leading to the development of a structured design space encompassing four critical dimensions: basic map representations, encoding channels, label design and placement, and highlighting techniques. Based on this design space, we developed a web-based authoring tool that allows users to explore and apply these design choices interactively. The tool’s effectiveness was evaluated through a user study involving 12 participants without prior design experience. Participants were first required manually to create geographic infographics using provided datasets, then utilize our authoring tool to recreate and refine their initial drafts. We also conducted pre- and post-use assessments of the participants’ knowledge of geographic infographic design. The findings revealed significant improvements in understanding and applying information encoding channels, highlighting techniques, and label design and placement strategies. These results demonstrate the tool’s dual capacity to assist users in creating geographics while educating them on key visualization strategies. Our tool, therefore, empowers a broader audience, including those with limited design and visualization backgrounds, to effectively create and utilize geo-infographics.
+SN  - 1875-8975
+UR  - https://doi.org/10.1007/s12650-025-01059-4
+DO  - 10.1007/s12650-025-01059-4
+ID  - Zhang2025
+ER  - 
