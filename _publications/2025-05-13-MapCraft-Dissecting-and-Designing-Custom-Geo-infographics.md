@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2025-05-13-MapCraft-Dissecting-and-Designing-Custom-Geo-infographics
 date: 2025-05-13
 venue: 'Journal of Visualization'
-paperurl: 'http://academicpages.github.io/files/s12650-025-01059-4.pdf'
-bibtexurl: 'http://academicpages.github.io/files/10.1007_s12650-025-01059-4-bibtex.ris'
+paperurl: 'http://xinyuanzhang1126.github.io/files/s12650-025-01059-4.pdf'
+bibtexurl: 'http://xinyuanzhang1126.github.io/files/10.1007_s12650-025-01059-4-bibtex.ris'
 citation: 'Zhang, X., Xu, Y., Li, K. et al. ChinaVis24.MapCraft: dissecting and designing custom geo-infographics. J Vis 28, 837–857 (2025). https://doi.org/10.1007/s12650-025-01059-4'
 ---
